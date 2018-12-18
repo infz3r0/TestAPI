@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAPI</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="types">
+        <item>Normal</item>
+        <item>Hybrid</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+        <item>None</item>
+    </string-array>
+</resources>
